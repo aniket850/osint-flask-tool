@@ -15,22 +15,16 @@ A powerful **Flask-based OSINT (Open Source Intelligence) tool** that helps you 
 ✅ Dynamic result cards
 
 ---
-
 # 🖼️ Project Preview
 
 ## 🔐 Login Page
-
-![Login Page](https://drive.google.com/file/d/1B2CKNnCiMxujLF3XRtXVbdg2RafKfs1P/view?usp=sharing)
+![Login Page](https://drive.google.com/uc?export=view&id=1B2CKNnCiMxujLF3XRtXVbdg2RafKfs1P)
 
 ## 🔎 Search Interface
-
-![Search Page](https://drive.google.com/file/d/1QOH04W4ymXE5LEf4Re5oTStMANvyAuIB/view?usp=sharing)
+![Search Page](https://drive.google.com/uc?export=view&id=1QOH04W4ymXE5LEf4Re5oTStMANvyAuIB)
 
 ## 📊 Leak Results
-
-![Results Page](https://drive.google.com/file/d/1bqIk31A18Af0OKVuCNDogG6cOhCqiBCv/view?usp=sharing)
-
----
+![Results Page](https://drive.google.com/uc?export=view&id=1bqIk31A18Af0OKVuCNDogG6cOhCqiBCv)
 
 # 🧠 How It Works
 
