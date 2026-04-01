@@ -20,15 +20,15 @@ A powerful **Flask-based OSINT (Open Source Intelligence) tool** that helps you 
 
 ## 🔐 Login Page
 
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
+![Login Page](https://drive.google.com/file/d/1B2CKNnCiMxujLF3XRtXVbdg2RafKfs1P/view?usp=sharing)
 
 ## 🔎 Search Interface
 
-![Search Page](https://via.placeholder.com/800x400?text=Search+Interface)
+![Search Page](https://drive.google.com/file/d/1QOH04W4ymXE5LEf4Re5oTStMANvyAuIB/view?usp=sharing)
 
 ## 📊 Leak Results
 
-![Results Page](https://via.placeholder.com/800x400?text=Leak+Results)
+![Results Page](https://drive.google.com/file/d/1bqIk31A18Af0OKVuCNDogG6cOhCqiBCv/view?usp=sharing)
 
 ---
 
